@@ -1,4 +1,4 @@
-# My Certification Projects Portfolio
+# My Frontend Certification Project Portfolio
 
 ## Patika Intermediate Frontend Web Development Path Certification Tasks
 
@@ -7,7 +7,7 @@
 Live Demo: <https://turkishcheckers.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/turkish-checkers>
 
-[![Turkish Checkers Preview](./ui-previews/turkish_checkers.png "Display Turkish Checkers")](https://turkishcheckers.netlify.app/)
+[![Turkish Checkers Preview](./public/turkish-checkers.png "Display Turkish Checkers")](https://turkishcheckers.netlify.app/)
 
 ***
 
@@ -16,7 +16,7 @@ Live Demo: <https://turkishcheckers.netlify.app/>
 Live Demo: <https://words-per-minute.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/typing-speed>
 
-[![Typing Speed Preview](./ui-previews/typing-speed.png "Display Typing Speed")](https://words-per-minute.netlify.app/)
+[![Typing Speed Preview](/public/typing-speed.png "Display Typing Speed")](https://words-per-minute.netlify.app/)
 
 ***
 
@@ -25,7 +25,7 @@ Live Demo: <https://words-per-minute.netlify.app/>
 Live Demo: <https://turkey-weather-forecast.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/weather_forecast>
 
-[![Weather Forecast Preview](./ui-previews/weather_forecast.png "Display Weather Forecast")](https://turkey-weather-forecast.netlify.app/)
+[![Weather Forecast Preview](/public/weather-forecast.png "Display Weather Forecast")](https://turkey-weather-forecast.netlify.app/)
 
 ***
 
@@ -34,7 +34,7 @@ Live Demo: <https://turkey-weather-forecast.netlify.app/>
 Live Demo: <https://demographic-status-of-countries.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/demographic-status-of-countries>
 
-[![Demographic Status of Countries Preview](./ui-previews/demographic-status-of-countries.png "Display Demographic Status of Countries")](https://demographic-status-of-countries.netlify.app/)
+[![Demographic Status of Countries Preview](/public/demographic-status-of-countries.png "Display Demographic Status of Countries")](https://demographic-status-of-countries.netlify.app/)
 
 ***
 
@@ -43,7 +43,7 @@ Live Demo: <https://demographic-status-of-countries.netlify.app/>
 Live Demo: <https://rand0m-text-generator.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/random-text-generator>
 
-[![Random Text Generator Preview](./ui-previews/random-text-generator.png "Display Random Text Generator Preview")](https://rand0m-text-generator.netlify.app/)
+[![Random Text Generator Preview](/public/random-text-generator.png "Display Random Text Generator Preview")](https://rand0m-text-generator.netlify.app/)
 
 ***
 
@@ -52,7 +52,7 @@ Live Demo: <https://rand0m-text-generator.netlify.app/>
 Live Demo: <https://find-the-matches.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/find-the-matches>
 
-[![Find the Matches Preview](./ui-previews/find-the-matches.png "Display Find the Matches")](https://find-the-matches.netlify.app/)
+[![Find the Matches Preview](/public/find-the-matches.png "Display Find the Matches")](https://find-the-matches.netlify.app/)
 
 ***
 
@@ -61,7 +61,7 @@ Live Demo: <https://find-the-matches.netlify.app/>
 Live Demo: <https://spend-100-billion-dollars.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/spend-100-billion-dollars>
 
-[![Spend 100 Billion Dollars Preview](./ui-previews/spend-100-billion-dollars.png "Display Spend 100 Billion Dollars")](https://spend-100-billion-dollars.netlify.app/)
+[![Spend 100 Billion Dollars Preview](/public/spend-100-billion-dollars.png "Display Spend 100 Billion Dollars")](https://spend-100-billion-dollars.netlify.app/)
 
 ***
 
@@ -70,11 +70,11 @@ Live Demo: <https://spend-100-billion-dollars.netlify.app/>
 Live Demo: <https://colored-notes.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/notes>
 
-[![Notes Preview](./ui-previews/notes.png "Display Notes")](https://colored-notes.netlify.app/)
+[![Notes Preview](/public/notes.png "Display Notes")](https://colored-notes.netlify.app/)
 
 ***
 
-### red-green-blue-buttons
+### Creating an NPM Package
 
 Package: <https://www.npmjs.com/package/red-green-blue-buttons>
 <br>Repository: <https://github.com/cemcelikgh/a-npm-package-creating>
@@ -135,7 +135,7 @@ Ran all test suites.
 Live Demo: <https://what-needs-to-be-d0ne.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/todos>
 
-[![todos Preview](./ui-previews/todos.png "Display todos")](https://what-needs-to-be-d0ne.netlify.app/)
+[![todos Preview](/public/todos.png "Display todos")](https://what-needs-to-be-d0ne.netlify.app/)
 
 ***
 
@@ -146,7 +146,7 @@ Live Demo: <https://what-needs-to-be-d0ne.netlify.app/>
 Live Demo: <https://session-and-break-timer.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/25-plus-5-clock>
 
-[![25 + 5 Clock Preview](./ui-previews/25-plus-5-clock.png "Display 25 + 5 Clock")](https://session-and-break-timer.netlify.app/)
+[![25 + 5 Clock Preview](/public/25-plus-5-clock.png "Display 25 + 5 Clock")](https://session-and-break-timer.netlify.app/)
 
 ***
 
@@ -155,7 +155,7 @@ Live Demo: <https://session-and-break-timer.netlify.app/>
 Live Demo: <https://javascript-calculating-machine.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/javascript-calculator>
 
-[![JavaScript Calculator Preview](./ui-previews/javascript-calculator.png "Display JavaScript Calculator")](https://javascript-calculating-machine.netlify.app/)
+[![JavaScript Calculator Preview](/public/javascript-calculator.png "Display JavaScript Calculator")](https://javascript-calculating-machine.netlify.app/)
 
 ***
 
@@ -164,7 +164,7 @@ Live Demo: <https://javascript-calculating-machine.netlify.app/>
 Live Demo: <https://drum-keyboard.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/drum-machine>
 
-[![Drum Machine Preview](./ui-previews/drum-machine.png "Display Drum Machine")](https://drum-keyboard.netlify.app/)
+[![Drum Machine Preview](/public/drum-machine.png "Display Drum Machine")](https://drum-keyboard.netlify.app/)
 
 ***
 
@@ -173,7 +173,7 @@ Live Demo: <https://drum-keyboard.netlify.app/>
 Live Demo: <https://markd0wn-editor.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/markdown-previewer>
 
-[![Markdown Previewer Preview](./ui-previews/markdown-previewer.png "Display Markdown Previewer")](https://markd0wn-editor.netlify.app/)
+[![Markdown Previewer Preview](/public/markdown-previewer.png "Display Markdown Previewer")](https://markd0wn-editor.netlify.app/)
 
 ***
 
@@ -182,7 +182,7 @@ Live Demo: <https://markd0wn-editor.netlify.app/>
 Live Demo: <https://rand0m-quote-machine.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/random-quote-machine>
 
-[![Random Quote Machine Preview](./ui-previews/random-quote-machine.png "Display Random Quote Machine")](https://rand0m-quote-machine.netlify.app/)
+[![Random Quote Machine Preview](/public/random-quote-machine.png "Display Random Quote Machine")](https://rand0m-quote-machine.netlify.app/)
 
 ***
 
@@ -193,7 +193,7 @@ Live Demo: <https://rand0m-quote-machine.netlify.app/>
 Live Demo: <https://pocket-monsters-search.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/pokemon-search>
 
-[![Pokémon Search Preview](./ui-previews/pokemon-search.png "Display Pokémon Search")](https://pocket-monsters-search.netlify.app/)
+[![Pokémon Search Preview](/public/pokemon-search.png "Display Pokémon Search")](https://pocket-monsters-search.netlify.app/)
 
 ***
 
@@ -202,7 +202,7 @@ Live Demo: <https://pocket-monsters-search.netlify.app/>
 Live Demo: <https://cash-till.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/cash-register>
 
-[![Cash Register Preview](./ui-previews/cash-register.png "Display Cash Register")](https://cash-till.netlify.app/)
+[![Cash Register Preview](/public/cash-register.png "Display Cash Register")](https://cash-till.netlify.app/)
 
 ***
 
@@ -211,7 +211,7 @@ Live Demo: <https://cash-till.netlify.app/>
 Live Demo: <https://usa-phone-number-validator.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/telephone-number-validator>
 
-[![Telephone Number Validator Preview](./ui-previews/telephone-number-validator.png "Display Telephone Number Validator")](https://usa-phone-number-validator.netlify.app/)
+[![Telephone Number Validator Preview](/public/telephone-number-validator.png "Display Telephone Number Validator")](https://usa-phone-number-validator.netlify.app/)
 
 ***
 
@@ -220,7 +220,7 @@ Live Demo: <https://usa-phone-number-validator.netlify.app/>
 Live Demo: <https://arabic-to-roman-numeral-converter.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/roman-numeral-converter>
 
-[![Roman Numeral Converter Preview](./ui-previews/roman-numeral-converter.png "Display Roman Numeral Converter")](https://arabic-to-roman-numeral-converter.netlify.app/)
+[![Roman Numeral Converter Preview](/public/roman-numeral-converter.png "Display Roman Numeral Converter")](https://arabic-to-roman-numeral-converter.netlify.app/)
 
 ***
 
@@ -229,7 +229,7 @@ Live Demo: <https://arabic-to-roman-numeral-converter.netlify.app/>
 Live Demo: <https://is-it-a-palindrome.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/palindrome-checker>
 
-[![Palindrome Checker Preview](./ui-previews/palindrome-checker.png "Display Palindrome Checker")](https://is-it-a-palindrome.netlify.app/)
+[![Palindrome Checker Preview](/public/palindrome-checker.png "Display Palindrome Checker")](https://is-it-a-palindrome.netlify.app/)
 
 ***
 
@@ -240,7 +240,7 @@ Live Demo: <https://is-it-a-palindrome.netlify.app/>
 Live Demo: <https://cemcelikgh.github.io/personal-portfolio-webpage/>
 <br>Repository: <https://github.com/cemcelikgh/personal-portfolio-webpage>
 
-[![Personal Portfolio Webpage Preview](./ui-previews/personal-portfolio-webpage.png "Display Personal Portfolio Webpage")](https://cemcelikgh.github.io/personal-portfolio-webpage/)
+[![Personal Portfolio Webpage Preview](/public/personal-portfolio-webpage.png "Display Personal Portfolio Webpage")](https://cemcelikgh.github.io/personal-portfolio-webpage/)
 
 ***
 
@@ -249,7 +249,7 @@ Live Demo: <https://cemcelikgh.github.io/personal-portfolio-webpage/>
 Live Demo: <https://cemcelikgh.github.io/product-landing-page/>
 <br>Repository: <https://github.com/cemcelikgh/product-landing-page>
 
-[![Product Landing Page Preview](./ui-previews/product-landing-page.jpg "Display Product Landing Page")](https://cemcelikgh.github.io/product-landing-page/)
+[![Product Landing Page Preview](/public/product-landing-page.jpg "Display Product Landing Page")](https://cemcelikgh.github.io/product-landing-page/)
 
 ***
 
@@ -258,7 +258,7 @@ Live Demo: <https://cemcelikgh.github.io/product-landing-page/>
 Live Demo: <https://cemcelikgh.github.io/technical-documentation-page/>
 <br>Repository: <https://github.com/cemcelikgh/technical-documentation-page>
 
-[![Technical Documentation Page Preview](./ui-previews/technical-documentation-page.png "Display Technical Documentation Page")](https://cemcelikgh.github.io/technical-documentation-page/)
+[![Technical Documentation Page Preview](/public/technical-documentation-page.png "Display Technical Documentation Page")](https://cemcelikgh.github.io/technical-documentation-page/)
 
 ***
 
@@ -267,7 +267,7 @@ Live Demo: <https://cemcelikgh.github.io/technical-documentation-page/>
 Live Demo: <https://cemcelikgh.github.io/tribute-page/>
 <br>Repository: <https://github.com/cemcelikgh/tribute-page>
 
-[![Tribute Page Preview](./ui-previews/tribute-page.jpg "Display Tribute Page")](https://cemcelikgh.github.io/tribute-page/)
+[![Tribute Page Preview](/public/tribute-page.jpg "Display Tribute Page")](https://cemcelikgh.github.io/tribute-page/)
 
 ***
 
@@ -276,7 +276,7 @@ Live Demo: <https://cemcelikgh.github.io/tribute-page/>
 Live Demo: <https://cemcelikgh.github.io/survey-form/>
 <br>Repository: <https://github.com/cemcelikgh/survey-form>
 
-[![Survey Form Preview](./ui-previews/survey-form.jpg "Display Survey Form")](https://cemcelikgh.github.io/survey-form/)
+[![Survey Form Preview](/public/survey-form.jpg "Display Survey Form")](https://cemcelikgh.github.io/survey-form/)
 
 ***
 
@@ -287,7 +287,7 @@ Live Demo: <https://cemcelikgh.github.io/survey-form/>
 Live Demo: <https://league-of-legends-champion-store.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/league-of-legends-champion-store>
 
-[![League of Legends Champion Store Preview](./ui-previews/league-of-legends-champion-store.png "Display League of Legends Champion Store")](https://league-of-legends-champion-store.netlify.app/)
+[![League of Legends Champion Store Preview](/public/league-of-legends-champion-store.png "Display League of Legends Champion Store")](https://league-of-legends-champion-store.netlify.app/)
 
 ***
 
@@ -296,7 +296,7 @@ Live Demo: <https://league-of-legends-champion-store.netlify.app/>
 Live Demo: <https://courses-to-learn.netlify.app/>
 <br>Repository: <https://github.com/cemcelikgh/courses-to-learn>
 
-[![Courses to Learn Preview](./ui-previews/courses-to-learn.png "Display Courses to Learn")](https://courses-to-learn.netlify.app/)
+[![Courses to Learn Preview](/public/courses-to-learn.png "Display Courses to Learn")](https://courses-to-learn.netlify.app/)
 
 ***
 
@@ -305,7 +305,7 @@ Live Demo: <https://courses-to-learn.netlify.app/>
 Live Demo: <https://cemcelikgh.github.io/linkedin-clone/>
 <br>Repository: <https://github.com/cemcelikgh/linkedin-clone>
 
-[![LinkedIn Clone Preview](./ui-previews/linkedin-clone.png "Display LinkedIn Clone")](https://cemcelikgh.github.io/linkedin-clone/)
+[![LinkedIn Clone Preview](/public/linkedin-clone.png "Display LinkedIn Clone")](https://cemcelikgh.github.io/linkedin-clone/)
 
 ***
 
@@ -314,7 +314,7 @@ Live Demo: <https://cemcelikgh.github.io/linkedin-clone/>
 Live Demo: <https://cemcelikgh.github.io/google-dark-theme/>
 <br>Repository: <https://github.com/cemcelikgh/google-dark-theme>
 
-[![Google Dark Theme Preview](./ui-previews/google-dark-theme.png "Display Google Dark Theme")](https://cemcelikgh.github.io/google-dark-theme/)
+[![Google Dark Theme Preview](/public/google-dark-theme.png "Display Google Dark Theme")](https://cemcelikgh.github.io/google-dark-theme/)
 
 ***
 
@@ -323,7 +323,7 @@ Live Demo: <https://cemcelikgh.github.io/google-dark-theme/>
 Live Demo: <https://cemcelikgh.github.io/google-beta/>
 <br>Repository: <https://github.com/cemcelikgh/google-beta>
 
-[![Google Beta Preview](./ui-previews/google-beta.jpg "Display Google Beta")](https://cemcelikgh.github.io/google-beta/)
+[![Google Beta Preview](/public/google-beta.jpg "Display Google Beta")](https://cemcelikgh.github.io/google-beta/)
 
 ***
 
@@ -332,7 +332,7 @@ Live Demo: <https://cemcelikgh.github.io/google-beta/>
 Live Demo: <https://cemcelikgh.github.io/favorites/>
 <br>Repository: <https://github.com/cemcelikgh/favorites>
 
-[![Favorites Preview](./ui-previews/favorites.jpg "Display Favorites")](https://cemcelikgh.github.io/favorites/)
+[![Favorites Preview](/public/favorites.jpg "Display Favorites")](https://cemcelikgh.github.io/favorites/)
 
 ***
 
@@ -341,7 +341,7 @@ Live Demo: <https://cemcelikgh.github.io/favorites/>
 Live Demo: <https://cemcelikgh.github.io/apple-cookies-recipe/>
 <br>Repository: <https://github.com/cemcelikgh/apple-cookies-recipe>
 
-[![Apple Cookies Recipe Preview](./ui-previews/apple-cookies-recipe.jpg "Display Apple Cookies Recipe")](https://cemcelikgh.github.io/apple-cookies-recipe/)
+[![Apple Cookies Recipe Preview](/public/apple-cookies-recipe.jpg "Display Apple Cookies Recipe")](https://cemcelikgh.github.io/apple-cookies-recipe/)
 
 ***
 
@@ -350,7 +350,7 @@ Live Demo: <https://cemcelikgh.github.io/apple-cookies-recipe/>
 Live Demo: <https://cemcelikgh.github.io/my-favorite-stories/>
 <br>Repository: <https://github.com/cemcelikgh/my-favorite-stories>
 
-[![My Favorite Stories Preview](./ui-previews/my-favorite-stories.jpg "Display My Favorite Stories")](https://cemcelikgh.github.io/my-favorite-stories/)
+[![My Favorite Stories Preview](/public/my-favorite-stories.jpg "Display My Favorite Stories")](https://cemcelikgh.github.io/my-favorite-stories/)
 
 ***
 
@@ -359,7 +359,7 @@ Live Demo: <https://cemcelikgh.github.io/my-favorite-stories/>
 Live Demo: <https://cemcelikgh.github.io/my-first-web-page/>
 <br>Repository: <https://github.com/cemcelikgh/my-first-web-page>
 
-[![My First Web Page Preview](./ui-previews/my-first-web-page.jpg "Display My First Web Page")](https://cemcelikgh.github.io/my-first-web-page/)
+[![My First Web Page Preview](/public/my-first-web-page.jpg "Display My First Web Page")](https://cemcelikgh.github.io/my-first-web-page/)
 
 ***
 
@@ -376,7 +376,7 @@ console.log("Merhaba Dünya");
 
 ![Patika.dev][1]
 
-[1]: ./ui-previews/patika.svg
+[1]: /public/patika.svg
 
 ***
 
